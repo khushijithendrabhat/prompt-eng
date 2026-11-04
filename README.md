@@ -40,5 +40,9 @@ This repository is a work in progress, and I'll keep updating it as I learn more
 If you find something useful or have suggestions, feel free to contribute!
 
 If you like the repository, don't forget to leave a ⭐.
-
 Learning, experimenting, and getting better at prompting — one prompt at a time! 🚀
+
+Author: Khushi Jithendra Bhat
+
+
+
